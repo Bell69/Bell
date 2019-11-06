@@ -17,3 +17,4 @@ Merge sort屬於Divide and Conquer演算法，把問題先拆解(divide)成子�
 依此類推，最後，考慮數列{3,5,6,8}與{1,2,4,7}，比較大小後，合併成數列{1,2,3,4,5,6,7,8}。<br>
 即完成Merge Sort。
 資料參考：![Comparison Sort](http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html#ref)
+ 
