@@ -16,7 +16,7 @@ Case3：欲刪除之node有兩個child pointer。
 BST的Search()操作，便是根據BST的特徵：Key(L)<Key(Current)<Key(R)，判斷Current應該往left subtree走，還是往right subtree走。<br>
 搜尋結果可能成功，可能失敗。<br>
 
-參考資料：[BST](http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html）<br>
+參考資料：[BST] (http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html）<br>
         [BST2](http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html)
 
 
