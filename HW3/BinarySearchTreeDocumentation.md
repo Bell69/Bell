@@ -6,4 +6,5 @@
 ![](https://img-blog.csdn.net/20140711211402185?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGpqNDE0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ## Binary Search Tree的特徵
 有了加裝Dictionary後的TreeNode，便能夠說明BST的特徵。<br>
-任何CurrnetNode之Key若與其left child、right child之Key有以下關係(若pointer指向NULL則忽略)：Key(L)<Key(Current)<Key(R)，則可稱這棵樹為Binary Search Tree(BST)。
+任何CurrnetNode之Key若與其left child、right child之Key有以下關係(若pointer指向NULL則忽略)：Key(L)<Key(Current)<Key(R)，則可稱這棵樹為Binary Search Tree(BST)。<br>
+參考資料:[連結](http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html)
